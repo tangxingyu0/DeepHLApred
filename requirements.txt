@@ -1,0 +1,13 @@
+conda==4.12.0
+h5py==3.1.0
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+numpy==1.19.5
+python==3.6.13
+scikit-learn @ file:///C:/ci/scikit-learn_1614446896245/work
+tensorboard==2.6.0
+tensorflow-estimator==2.6.0
+tensorflow-gpu==2.6.0
+umap-learn==0.5.1
