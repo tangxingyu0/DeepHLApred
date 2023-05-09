@@ -4,6 +4,6 @@
 # Dependency
 * **Python 3.6.13 and tensorflow-gpu 2.6.0 or later version**
 # Contact
-* **If you have any question ,please contact guohuahn@163.com**
+* **If you have any question, please contact guohuahn@163.com**
 # Citation
 * **If you use DeepHLApred for research, please cite this paper**
